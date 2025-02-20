@@ -24,7 +24,7 @@
 2. La función debe retornar el resultado de la multiplicación de ambos números.
 
 ```javascript
-//Escribir la función multipicar
+//Escribir la función multiplicar
 ```
 
 ### Ejercicio 4
